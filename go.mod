@@ -3,6 +3,7 @@ module github.com/multiformats/go-multiaddr
 go 1.22
 
 require (
+	github.com/wlynxg/anet v0.0.5
 	github.com/ipfs/go-cid v0.0.7
 	github.com/multiformats/go-multibase v0.2.0
 	github.com/multiformats/go-multihash v0.2.3
