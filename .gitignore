@@ -1,3 +1,5 @@
 .vscode/
 multiaddr/multiaddr
 tmp/
+
+.idea
